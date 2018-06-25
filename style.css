@@ -1,0 +1,28 @@
+body {
+	background-color: #000;
+}
+
+p {
+	color: #fff;
+}
+
+button {
+	background-color: #000;
+	color: #fff;
+}
+
+button:hover {
+	background-color: #fff;
+	color: #000;
+}
+
+button:disabled {
+	background-color: #000;
+	color: #333;
+}
+
+input {
+	background-color: #000;
+	color: #fff;
+	width: 256px;
+}
